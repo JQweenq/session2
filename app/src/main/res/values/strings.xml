@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">second stage</string>
+    <string name="launch_text">WSR Police</string>
+    <string name="logo">Logo</string>
+    <string name="wsr_police">WSK Police</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="guest">Guest</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="wsk_police">WSK Police - Оперативно-розыскная деятельность - мероприятия, выполняемые гласно и негласно уполномоченными на это государственными органами с целью выявить, пресечь или раскрыть преступление, отыскать скрывающихся и пропавших без вести людей, установить имущество, подлежащее конфискации, добыть информацию о событиях и деяниях, опасных для государства.</string>
+    <string name="wsk_police_2019">2019 WSK Police\n Разработано с любовью в WorldSkills Russia compition F6 Mobile Application Development</string>
+    <string name="version_2_0">Version 2.0</string>
+    <string name="world_skills_russia_wsr">World Skills Russia (WSR)</string>
+    <string name="about_us">About Us</string>
+    <string name="main">Main</string>
+</resources>
