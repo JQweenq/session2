@@ -80,7 +80,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkBox2"
-        app:rippleColor="#177D89" />
+        app:rippleColor="#177D89"
+        android:onClick="comeAsUser"/>
 
     <Button
         android:id="@+id/button2"
@@ -90,5 +91,6 @@
         android:text="@string/guest"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button" />
+        app:layout_constraintTop_toBottomOf="@+id/button"
+        android:onClick="comeAsGuest"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
