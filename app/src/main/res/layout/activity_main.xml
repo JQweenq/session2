@@ -40,10 +40,4 @@
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-    <ListView
-        android:layout_width="340dp"
-        android:layout_height="306dp"
-        tools:layout_editor_absoluteX="26dp"
-        tools:layout_editor_absoluteY="56dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
